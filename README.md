@@ -1,4 +1,4 @@
-# Statistics with Python
+expertise-fraud-detection
 
 This repository contains applied statistics projects implemented using Python.
 The goal is to demonstrate statistical reasoning on real and simulated data,
